@@ -29,7 +29,7 @@ The study was conducted using R studio.
 
 ## [Small_E-commerce_sales_project](https://github.com/Dplanta/Small_E-commerce_sales_project)
 
-Project developed for my Business, economics and financial data exam. A nice challenge to get hands on with [Time Series Analysis] 
+Project developed for my Business, economics and financial data exam. A nice challenge to get hands on with Time Series Analysis! 
 
 ### Objective
 Analyze historical sales data, identify patterns, trends and seasonalities in order to understand what affects these sales and how. The models developed aim to be highly explainable so that business stakeholders can understand the factors driving the variations in the number of sales and confidently apply the insights to strategic decisions.
