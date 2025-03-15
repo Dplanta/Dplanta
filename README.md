@@ -17,7 +17,7 @@ domenicoplantamura96@gmail.com
 ### Objective
 
 Investigate whether the salaries earned by the NBA players in 2023-2024 are fair in proportion to their performance during the 2023-2024 Regular season.
-The study was conducted using R studio
+The study was conducted using R studio.
 
 ### Statistical techniques involved
 
