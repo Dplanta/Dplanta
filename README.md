@@ -12,7 +12,7 @@ domenicoplantamura96@gmail.com
 
 # Projects 📈
 
-##[NBA salaries project](https://github.com/Dplanta/NBA-salaries-project)
+## [NBA salaries project](https://github.com/Dplanta/NBA-salaries-project)
 
 ### Objective
 
