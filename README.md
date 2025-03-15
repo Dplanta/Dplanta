@@ -12,7 +12,7 @@ domenicoplantamura96@gmail.com
 
 # Projects 📈
 
-## [NBA_hustle_stats_study](https://github.com/Dplanta/NBA-hustle-stats-study)
+## [NBA hustle stats study](https://github.com/Dplanta/NBA-hustle-stats-study)
 
 Project developed for my Bsc thesis (in italian)
 
@@ -26,7 +26,7 @@ Project developed for my Bsc thesis (in italian)
 Investigate whether the salaries earned by the NBA players in 2023-2024 are fair in proportion to their performance during the 2023-2024 Regular season.
 The study was conducted using R studio.
 
-## [Small_E-commerce_sales_project](https://github.com/Dplanta/Small_E-commerce_sales_project)
+## [Small E-commerce sales project](https://github.com/Dplanta/Small_E-commerce_sales_project)
 
 Project developed for my Business, economics and financial data exam. A nice challenge to get hands on with Time Series Analysis! 
 
