@@ -12,17 +12,27 @@ domenicoplantamura96@gmail.com
 
 # Projects 📈
 
+## [NBA_hustle_stats_study](https://github.com/Dplanta/NBA-hustle-stats-study)
+
+Project developed for my Bsc thesis (in italian)
+
+### Objective 
+
+- Study the relationship between hustle stats and players' minutes per game during Regular Season and Playoffs
+- Explore the relationship between hustle stats and players' Net Rating during Regular Season and Playoffs
+
 ## [NBA salaries project](https://github.com/Dplanta/NBA-salaries-project)
 
 ### Objective
-
 Investigate whether the salaries earned by the NBA players in 2023-2024 are fair in proportion to their performance during the 2023-2024 Regular season.
 The study was conducted using R studio.
 
-### Statistical techniques involved
+## [Small_E-commerce_sales_project](https://github.com/Dplanta/Small_E-commerce_sales_project)
 
-- Multiple linear regression
-- Ridge and Lasso regression
-- Variable selection
-- K-fold cross validation
+Project developed for my Business, economics and financial data exam. A nice challenge to get hands on with [Time Series Analysis] 
+
+### Objective
+Analyze historical sales data, identify patterns, trends and seasonalities in order to understand what affects these sales and how. The models developed aim to be highly explainable so that business stakeholders can understand the factors driving the variations in the number of sales and confidently apply the insights to strategic decisions.
+
+
   
