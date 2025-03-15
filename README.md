@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Domenico Plantamura 👋
+💻📊 Data Science student  
+🏀⚽ Passionate about Sports Analytics 
+
+📫 How to reach me: 
+![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
+domenicoplantamura96@gmail.com
+
 
 <!--
 **Dplanta/Dplanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
