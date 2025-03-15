@@ -16,8 +16,7 @@ domenicoplantamura96@gmail.com
 
 Project developed for my Bsc thesis (in italian)
 
-### Objective 
-
+### Objectives 
 - Study the relationship between hustle stats and players' minutes per game during Regular Season and Playoffs
 - Explore the relationship between hustle stats and players' Net Rating during Regular Season and Playoffs
 
