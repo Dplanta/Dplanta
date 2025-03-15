@@ -1,5 +1,6 @@
 # Hi, I'm Domenico Plantamura 👋
-💻📊 Data Science student  
+💻📊 Statistician and Data Science student  
+
 🏀⚽ Passionate about Sports Analytics 
 
 📫 How to reach me: 
@@ -7,6 +8,8 @@
 domenicoplantamura96@gmail.com
 
 ![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
+
+## My projects 📈
 
 
 
