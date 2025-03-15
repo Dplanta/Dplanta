@@ -4,8 +4,10 @@
 
 📫 How to reach me: 
 
-![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
 domenicoplantamura96@gmail.com
+
+![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
+
 
 
 <!--
