@@ -3,8 +3,8 @@
 🏀⚽ Passionate about Sports Analytics 
 
 📫 How to reach me: 
-![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
 
+![LinkedIn](https://www.linkedin.com/in/domenicoplantamura/)
 domenicoplantamura96@gmail.com
 
 
