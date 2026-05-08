@@ -33,8 +33,22 @@ Project developed for my Business, economics and financial data exam. A nice cha
 ### Objective
 Analyze historical sales data, identify patterns, trends and seasonalities in order to understand what affects these sales and how. The models developed aim to be highly explainable so that business stakeholders can understand the factors driving the variations in the number of sales and confidently apply the insights to strategic decisions.
 
-## [Efficient Gait Classification Using Skeleton and Pressure Data: Deep and Spiking Neural Network Approaches]()
+## [Efficient Gait Classification Using Skeleton and Pressure Data: Deep and Spiking Neural Network Approaches](https://github.com/Dplanta/Efficient-Gait-Classification-Using-Skeleton-and-Pressure-Data)
 
-## [Modeling Spatio-Temporal Data via Learnable Axonal Delays in Convolutional Recurrent Spiking Neural Networks]()
+Project developed for my Machine Learning for Human Data exam, focused on the automated classification of normal and pathological walking patterns.
+
+### Objectives
+By leveraging multimodal data (3D Skeleton sequences and Plantar Pressure maps), the developed models aim to provide clinicians with an accurate yet computationally lightweight tool for diagnosis. The challenge lies in balancing the richness of multi-sensor fusion with the necessity for low-latency, real-time inferene, offering a promising foundation for future medical applications.
+
+## [Modeling Spatio-Temporal Data via Learnable Axonal Delays in Convolutional Recurrent Spiking Neural Networks](https://github.com/Dplanta/Modeling-Spatio-Temporal-Data-via-Delays-in-Convolutional-Recurrent-Spiking-Neural-Networks)
+
+Project developed for my master thesis in Data Science. This project addresses one of the most significant challenges in the neural computing field: effectively modeling complex spatio-temporal data.
+
+### Objectives
+
+The core objective was to design and evaluate an architecture that integrates learnable axonal delays within a Convolutional Spiking GRU. By allowing the network to learn its own temporal delays, the developed models aim to achieve fine-grained synchronization of spikes, following a biological plausible mechanism. This study provides deep insights into the architectural bottlenecks of delay-based learning and offers a viable roadmap for building more expressive and efficient neuromorphic systems in future studies.
+
+
+
 
   
