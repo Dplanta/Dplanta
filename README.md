@@ -38,7 +38,7 @@ Analyze historical sales data, identify patterns, trends and seasonalities in or
 Project developed for my Machine Learning for Human Data exam, focused on the automated classification of normal and pathological walking patterns.
 
 ### Objectives
-By leveraging multimodal data (3D Skeleton sequences and Plantar Pressure maps), the developed models aim to provide clinicians with an accurate yet computationally lightweight tool for diagnosis. The challenge lies in balancing the richness of multi-sensor fusion with the necessity for low-latency, real-time inferene, offering a promising foundation for future medical applications.
+By leveraging multimodal data (3D Skeleton sequences and Plantar Pressure maps), the developed models aim to provide clinicians with an accurate yet computationally lightweight tool for diagnosis. The challenge lies in balancing the richness of multi-sensor fusion with the necessity for low-latency, real-time inference, offering a promising foundation for future medical applications.
 
 ## [Modeling Spatio-Temporal Data via Learnable Axonal Delays in Convolutional Recurrent Spiking Neural Networks](https://github.com/Dplanta/Modeling-Spatio-Temporal-Data-via-Delays-in-Convolutional-Recurrent-Spiking-Neural-Networks)
 
