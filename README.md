@@ -1,6 +1,6 @@
 Hi, I'm Domenico Plantamura 👋
 
-💻📊 Statistician and Data Science student  
+💻📊 Statistician and Data Scientist 
 
 🏀 Passionate about Sports Analytics 
 
@@ -33,5 +33,8 @@ Project developed for my Business, economics and financial data exam. A nice cha
 ### Objective
 Analyze historical sales data, identify patterns, trends and seasonalities in order to understand what affects these sales and how. The models developed aim to be highly explainable so that business stakeholders can understand the factors driving the variations in the number of sales and confidently apply the insights to strategic decisions.
 
+## [Efficient Gait Classification Using Skeleton and Pressure Data: Deep and Spiking Neural Network Approaches]()
+
+## [Modeling Spatio-Temporal Data via Learnable Axonal Delays in Convolutional Recurrent Spiking Neural Networks]()
 
   
